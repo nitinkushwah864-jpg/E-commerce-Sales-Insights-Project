@@ -38,6 +38,7 @@ The interactive Excel Dashboard includes:
 * 🗺️ **Sales by Region:** A breakdown of total price sums per geographic area.
 * 🛍️ **Sales by Product:** A comparative view of Revenue vs. Quantity sold for each category.
 ## 🚀 Live Demo: Watch the Dashboard Run Smoothly
+https://github.com/user-attachments/assets/a5e1eece-412a-4326-9f44-1b4a54632933
 
 
 ---
