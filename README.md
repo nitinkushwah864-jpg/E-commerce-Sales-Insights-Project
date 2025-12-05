@@ -38,15 +38,6 @@ The interactive Excel Dashboard includes:
 * 🗺️ **Sales by Region:** A breakdown of total price sums per geographic area.
 * 🛍️ **Sales by Product:** A comparative view of Revenue vs. Quantity sold for each category.
 
-## 🚀 How to Use
-1.  **Clone the repository:** ⬇️
-    ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    ```
-2.  **Open the file:** 📂
-    Locate the `Product-Sales-Region.xlsx` file and open it in **Microsoft Excel**.
-3.  **Explore:** 🕵️‍♂️
-    Navigate to the **Dashboard** sheet to view the visualizations. You can interact with any Slicers provided to filter by Year or Region.
 
 ---
-*Created by [Your Name]*
+*Created by [NITIN KUSHWAH]*
