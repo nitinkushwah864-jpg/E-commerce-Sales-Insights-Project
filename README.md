@@ -37,6 +37,7 @@ The interactive Excel Dashboard includes:
 * 🔢 **KPI Cards:** Displaying Total Revenue ($4.3M) and Average Revenue ($2,920).
 * 🗺️ **Sales by Region:** A breakdown of total price sums per geographic area.
 * 🛍️ **Sales by Product:** A comparative view of Revenue vs. Quantity sold for each category.
+## 🚀 Live Demo: Watch the Dashboard Run Smoothly
 
 
 ---
