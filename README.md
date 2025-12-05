@@ -41,6 +41,7 @@ The interactive Excel Dashboard includes:
 https://github.com/user-attachments/assets/a5e1eece-412a-4326-9f44-1b4a54632933
 # 📊 Product Sales & Regional Analysis Dashboard
 ## 📖 Project Overview
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7adff4c7-1bcf-4fb2-af48-ce1b15302645" />
 
 
 
